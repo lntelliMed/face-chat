@@ -11,7 +11,7 @@ curl -X POST -H "Content-Type: application/json" -d '{
             {
               "title":"View Website",
               "type":"web_url",
-              "url":"http://www.myapple.com"
+              "url":"http://www.mysite.com"
             },
             {
               "title":"Apply for a job",
